@@ -1,0 +1,118 @@
+{
+    "products":[
+    {
+    "_id": 11,
+    "title" : "Canon EOS Rebel T100",
+    "description" : "Canon EOS Rebel T100 Digital SLR Camera with 18-55mm Lens Kit, 18 Megapixel Sensor, Wi-Fi, DIGIC4+, SanDisk 32GB Memory Card and Live View Shooting",
+    "price" : 559.99,
+    "category" : "Electronics",
+    "image" : "https://i.ibb.co/1r28gMk/1.webp",
+    "brand" : "Canon"
+    } ,
+    {
+    "_id": 12,
+    "title" : "DJI Air",
+    "description" : "DJI Mini 2 Fly More Combo - Ultralight Foldable Drone, 3-Axis Gimbal with 4K Camera, 12MP Photos, 31 Min Flight Time",
+    "price" : 999.00,
+    "category" : "Electronics",
+    "image" : "https://i.ibb.co/qdfB3s6/2.webp",
+    "brand" : "DJI"
+    },
+    {
+        "_id": 13,
+        "title" : "HeadPhone",
+        "description" : "DJI Mini 2 Fly More Combo - Ultralight Foldable Drone, 3-Axis Gimbal with 4K Camera, 12MP Photos, 31 Min Flight Time",
+        "price" : 1999.00,
+        "category" : "Electronics",
+        "image" : "https://images.pexels.com/photos/7772547/pexels-photo-7772547.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "brand" : "DJI"
+        },
+        {
+            "_id": 14,
+            "title" : "Mouse",
+            "description" : "DJI Mini 2 Fly More Combo - Ultralight Foldable Drone, 3-Axis Gimbal with 4K Camera, 12MP Photos, 31 Min Flight Time",
+            "price" : 3560.00,
+            "category" : "Electronics",
+            "image" : "https://images.pexels.com/photos/7091925/pexels-photo-7091925.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "brand" : "DJI"
+            }
+            ,
+            {
+                "_id": 15,
+                "title" : "Mobile",
+                "description" : "DJI Mini 2 Fly More Combo - Ultralight Foldable Drone, 3-Axis Gimbal with 4K Camera, 12MP Photos, 31 Min Flight Time",
+                "price" : 4444.00,
+                "category" : "Electronics",
+                "image" : "https://images.pexels.com/photos/7772534/pexels-photo-7772534.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "brand" : "DJI"
+                },
+                
+                {
+                    "_id": 16,
+                    "title" : "Speaker",
+                    "description" : "DJI Mini 2 Fly More Combo - Ultralight Foldable Drone, 3-Axis Gimbal with 4K Camera, 12MP Photos, 31 Min Flight Time",
+                    "price" : 1111.00,
+                    "category" : "Electronics",
+                    "image" : "https://images.pexels.com/photos/7172686/pexels-photo-7172686.jpeg?auto=compress&cs=tinysrgb&w=600",
+                    "brand" : "DJI"
+                    },
+                    
+                    {
+                        "_id": 17,
+                        "title" : "Calculator",
+                        "description" : "DJI Mini 2 Fly More Combo - Ultralight Foldable Drone, 3-Axis Gimbal with 4K Camera, 12MP Photos, 31 Min Flight Time",
+                        "price" : 3000.00,
+                        "category" : "Electronics",
+                        "image" : "https://images.pexels.com/photos/4449788/pexels-photo-4449788.jpeg?auto=compress&cs=tinysrgb&w=600",
+                        "brand" : "DJI"
+                        },
+                        
+    {
+        "_id": 18,
+        "title" : "Motor",
+        "description" : "DJI Mini 2 Fly More Combo - Ultralight Foldable Drone, 3-Axis Gimbal with 4K Camera, 12MP Photos, 31 Min Flight Time",
+        "price" : 6000.00,
+        "category" : "Electronics",
+        "image" : "https://images.pexels.com/photos/4112726/pexels-photo-4112726.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "brand" : "DJI"
+        },
+        
+    {
+        "_id": 19,
+        "title" : "Machine",
+        "description" : "DJI Mini 2 Fly More Combo - Ultralight Foldable Drone, 3-Axis Gimbal with 4K Camera, 12MP Photos, 31 Min Flight Time",
+        "price" : 10000.00,
+        "category" : "Electronics",
+        "image" : "https://images.pexels.com/photos/1674300/pexels-photo-1674300.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "brand" : "DJI"
+        },
+        
+    {
+        "_id": 20,
+        "title" : "Type Writer",
+        "description" : "DJI Mini 2 Fly More Combo - Ultralight Foldable Drone, 3-Axis Gimbal with 4K Camera, 12MP Photos, 31 Min Flight Time",
+        "price" : 22000.00,
+        "category" : "Electronics",
+        "image" : "https://images.pexels.com/photos/6826789/pexels-photo-6826789.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "brand" : "DJI"
+        },
+        {
+            "_id": 21,
+            "title" : "Wireless Remote",
+            "description" : "DJI Mini 2 Fly More Combo - Ultralight Foldable Drone, 3-Axis Gimbal with 4K Camera, 12MP Photos, 31 Min Flight Time",
+            "price" : 9000.00,
+            "category" : "Electronics",
+            "image" : "https://images.pexels.com/photos/12719134/pexels-photo-12719134.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "brand" : "DJI"
+            },
+            {
+                "_id": 22,
+                "title" : "Mini Camera",
+                "description" : "DJI Mini 2 Fly More Combo - Ultralight Foldable Drone, 3-Axis Gimbal with 4K Camera, 12MP Photos, 31 Min Flight Time",
+                "price" : 7000.00,
+                "category" : "Electronics",
+                "image" : "https://images.pexels.com/photos/11444113/pexels-photo-11444113.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "brand" : "DJI"
+                }]
+    
+}
